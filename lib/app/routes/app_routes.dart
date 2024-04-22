@@ -1,0 +1,33 @@
+class Routes {
+  static const HOME = '/home';
+  static const SPLASH = '/splash';
+  static const AUTH = '/auth';
+  static const WBSREGISTRATION = '/signup';
+  static const DASHBOARD = '/dashboard';
+  static const CONTROLTOWER = '/controltower';
+  static const ORDERBIDDING = '/orderbidding';
+  static const PENDINGORDERS = '/pendingorders';
+  static const WORKORDERS = '/workorders';
+  static const COMPLETEDORDERS = '/completedorders';
+  // static const INVOICEDETAILVIEW = '/invoicedetailview';
+  static const REPORTS = '/reports';
+  static const CUSTOMERINFO = '/customerinfo';
+  // static const INVOICEINFO = '/invoiceinfo';
+  static const CUSTOMERREQ = '/customerreq';
+  static const WBSREPORTSDETAILVIEW = '/wbsreportdetailview';
+  static const USERROLES = '/userroles';
+  static const ADDUSERROLE = '/adduserrole';
+  static const EDITUSERROLE = '/edituserrole';
+  static const USERS = '/users';
+  static const ADDUSER = '/adduser';
+  static const EDITUSER = '/edituser';
+  static const WAREHOUSES = '/warehouses';
+  static const ADDWAREHOUSE = '/addwarehouse';
+  static const WAREHOUSEDETAILINFO = '/warehouseinfo';
+  static const TERMSNCONDITION = '/termsnconditions';
+  static const PROFILE = '/profile';
+  static const EDITPROFILE = '/editprofile';
+  static const CHANGEPASSWORD = '/changepassword';
+  static const NEGOTIATIONS = '/negotiations';
+  static const WONEGOTIATIONS = '/wonegotiations';
+}
